@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "atividade_agregacao/1.0.0": {
+        "runtime": {
+          "atividade_agregacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade_agregacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
